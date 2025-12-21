@@ -118,6 +118,12 @@
 /processorParam:Quality=Best
 /build:sounds/guis/hover.wav
 
+#begin sounds/guis/message.wav
+/importer:WavImporter
+/processor:SoundEffectProcessor
+/processorParam:Quality=Best
+/build:sounds/guis/message.wav
+
 #begin sounds/guis/pause_ended.wav
 /importer:WavImporter
 /processor:SoundEffectProcessor

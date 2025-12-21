@@ -94,6 +94,96 @@
 /processorParam:Quality=Best
 /build:songs/volume_01/02_endless_rebirth.wav
 
+#begin sounds/guis/accepted.wav
+/importer:WavImporter
+/processor:SoundEffectProcessor
+/processorParam:Quality=Best
+/build:sounds/guis/accepted.wav
+
+#begin sounds/guis/click.wav
+/importer:WavImporter
+/processor:SoundEffectProcessor
+/processorParam:Quality=Best
+/build:sounds/guis/click.wav
+
+#begin sounds/guis/error.wav
+/importer:WavImporter
+/processor:SoundEffectProcessor
+/processorParam:Quality=Best
+/build:sounds/guis/error.wav
+
+#begin sounds/guis/hover.wav
+/importer:WavImporter
+/processor:SoundEffectProcessor
+/processorParam:Quality=Best
+/build:sounds/guis/hover.wav
+
+#begin sounds/guis/pause_ended.wav
+/importer:WavImporter
+/processor:SoundEffectProcessor
+/processorParam:Quality=Best
+/build:sounds/guis/pause_ended.wav
+
+#begin sounds/guis/pause_started.wav
+/importer:WavImporter
+/processor:SoundEffectProcessor
+/processorParam:Quality=Best
+/build:sounds/guis/pause_started.wav
+
+#begin sounds/guis/rejected.wav
+/importer:WavImporter
+/processor:SoundEffectProcessor
+/processorParam:Quality=Best
+/build:sounds/guis/rejected.wav
+
+#begin sounds/guis/returning.wav
+/importer:WavImporter
+/processor:SoundEffectProcessor
+/processorParam:Quality=Best
+/build:sounds/guis/returning.wav
+
+#begin sounds/guis/typing_1.wav
+/importer:WavImporter
+/processor:SoundEffectProcessor
+/processorParam:Quality=Best
+/build:sounds/guis/typing_1.wav
+
+#begin sounds/guis/typing_2.wav
+/importer:WavImporter
+/processor:SoundEffectProcessor
+/processorParam:Quality=Best
+/build:sounds/guis/typing_2.wav
+
+#begin sounds/guis/typing_3.wav
+/importer:WavImporter
+/processor:SoundEffectProcessor
+/processorParam:Quality=Best
+/build:sounds/guis/typing_3.wav
+
+#begin sounds/guis/typing_4.wav
+/importer:WavImporter
+/processor:SoundEffectProcessor
+/processorParam:Quality=Best
+/build:sounds/guis/typing_4.wav
+
+#begin sounds/guis/typing_5.wav
+/importer:WavImporter
+/processor:SoundEffectProcessor
+/processorParam:Quality=Best
+/build:sounds/guis/typing_5.wav
+
+#begin sounds/guis/world_loaded.wav
+/importer:WavImporter
+/processor:SoundEffectProcessor
+/processorParam:Quality=Best
+/build:sounds/guis/world_loaded.wav
+
+#begin sounds/guis/world_saved.wav
+/importer:WavImporter
+/processor:SoundEffectProcessor
+/processorParam:Quality=Best
+/build:sounds/guis/world_saved.wav
+
 #begin textures/backgrounds/ocean.png
 /importer:TextureImporter
 /processor:TextureProcessor

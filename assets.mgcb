@@ -94,6 +94,24 @@
 /processorParam:Quality=Best
 /build:songs/volume_01/02_endless_rebirth.wav
 
+#begin songs/volume_01/03_lonely_heart.wav
+/importer:WavImporter
+/processor:SongProcessor
+/processorParam:Quality=Best
+/build:songs/volume_01/03_lonely_heart.wav
+
+#begin songs/volume_01/04_building_something_for_you.wav
+/importer:WavImporter
+/processor:SongProcessor
+/processorParam:Quality=Best
+/build:songs/volume_01/04_building_something_for_you.wav
+
+#begin songs/volume_01/05_thoughts_from_a_distant_place.wav
+/importer:WavImporter
+/processor:SongProcessor
+/processorParam:Quality=Best
+/build:songs/volume_01/05_thoughts_from_a_distant_place.wav
+
 #begin sounds/guis/accepted.wav
 /importer:WavImporter
 /processor:SoundEffectProcessor

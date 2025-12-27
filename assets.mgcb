@@ -298,18 +298,6 @@
 /processorParam:TextureFormat=Color
 /build:textures/game/title.png
 
-#begin textures/gui/backgrounds/enfironment_settings.png
-/importer:TextureImporter
-/processor:TextureProcessor
-/processorParam:ColorKeyColor=255,0,255,255
-/processorParam:ColorKeyEnabled=True
-/processorParam:GenerateMipmaps=False
-/processorParam:PremultiplyAlpha=True
-/processorParam:ResizeToPowerOfTwo=False
-/processorParam:MakeSquare=False
-/processorParam:TextureFormat=Color
-/build:textures/gui/backgrounds/enfironment_settings.png
-
 #begin textures/gui/backgrounds/environment_settings.png
 /importer:TextureImporter
 /processor:TextureProcessor

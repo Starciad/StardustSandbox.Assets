@@ -214,7 +214,7 @@
 /processorParam:Quality=Best
 /build:sounds/guis/world_saved.wav
 
-#begin textures/actors/gul.png
+#begin textures/actors.png
 /importer:TextureImporter
 /processor:TextureProcessor
 /processorParam:ColorKeyColor=255,0,255,255
@@ -224,7 +224,7 @@
 /processorParam:ResizeToPowerOfTwo=False
 /processorParam:MakeSquare=False
 /processorParam:TextureFormat=Color
-/build:textures/actors/gul.png
+/build:textures/actors.png
 
 #begin textures/backgrounds/ocean.png
 /importer:TextureImporter
@@ -489,6 +489,18 @@
 /processorParam:MakeSquare=False
 /processorParam:TextureFormat=Color
 /build:textures/gui/text_input_ornament.png
+
+#begin textures/icons/actors.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:textures/icons/actors.png
 
 #begin textures/icons/elements.png
 /importer:TextureImporter

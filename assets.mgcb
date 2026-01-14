@@ -322,6 +322,18 @@
 /processorParam:TextureFormat=Color
 /build:textures/gui/backgrounds/environment_settings.png
 
+#begin textures/gui/backgrounds/generator_settings.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:textures/gui/backgrounds/generator_settings.png
+
 #begin textures/gui/backgrounds/hud_horizontal_toolbar.png
 /importer:TextureImporter
 /processor:TextureProcessor

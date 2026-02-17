@@ -418,6 +418,18 @@
 /processorParam:TextureFormat=Color
 /build:textures/gui/backgrounds/item_explorer.png
 
+#begin textures/gui/backgrounds/item_search.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:textures/gui/backgrounds/item_search.png
+
 #begin textures/gui/backgrounds/options.png
 /importer:TextureImporter
 /processor:TextureProcessor

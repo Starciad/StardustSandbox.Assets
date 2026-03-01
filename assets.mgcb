@@ -118,101 +118,101 @@
 /processorParam:Quality=Best
 /build:songs/volume_01/track_06.wav
 
-#begin sounds/guis/accepted.wav
+#begin sounds/uis/accepted.wav
 /importer:WavImporter
 /processor:SoundEffectProcessor
 /processorParam:Quality=Best
-/build:sounds/guis/accepted.wav
+/build:sounds/uis/accepted.wav
 
-#begin sounds/guis/click.wav
+#begin sounds/uis/click.wav
 /importer:WavImporter
 /processor:SoundEffectProcessor
 /processorParam:Quality=Best
-/build:sounds/guis/click.wav
+/build:sounds/uis/click.wav
 
-#begin sounds/guis/error.wav
+#begin sounds/uis/error.wav
 /importer:WavImporter
 /processor:SoundEffectProcessor
 /processorParam:Quality=Best
-/build:sounds/guis/error.wav
+/build:sounds/uis/error.wav
 
-#begin sounds/guis/hover.wav
+#begin sounds/uis/hover.wav
 /importer:WavImporter
 /processor:SoundEffectProcessor
 /processorParam:Quality=Best
-/build:sounds/guis/hover.wav
+/build:sounds/uis/hover.wav
 
-#begin sounds/guis/message.wav
+#begin sounds/uis/message.wav
 /importer:WavImporter
 /processor:SoundEffectProcessor
 /processorParam:Quality=Best
-/build:sounds/guis/message.wav
+/build:sounds/uis/message.wav
 
-#begin sounds/guis/pause_ended.wav
+#begin sounds/uis/pause_ended.wav
 /importer:WavImporter
 /processor:SoundEffectProcessor
 /processorParam:Quality=Best
-/build:sounds/guis/pause_ended.wav
+/build:sounds/uis/pause_ended.wav
 
-#begin sounds/guis/pause_started.wav
+#begin sounds/uis/pause_started.wav
 /importer:WavImporter
 /processor:SoundEffectProcessor
 /processorParam:Quality=Best
-/build:sounds/guis/pause_started.wav
+/build:sounds/uis/pause_started.wav
 
-#begin sounds/guis/rejected.wav
+#begin sounds/uis/rejected.wav
 /importer:WavImporter
 /processor:SoundEffectProcessor
 /processorParam:Quality=Best
-/build:sounds/guis/rejected.wav
+/build:sounds/uis/rejected.wav
 
-#begin sounds/guis/returning.wav
+#begin sounds/uis/returning.wav
 /importer:WavImporter
 /processor:SoundEffectProcessor
 /processorParam:Quality=Best
-/build:sounds/guis/returning.wav
+/build:sounds/uis/returning.wav
 
-#begin sounds/guis/typing_1.wav
+#begin sounds/uis/typing_1.wav
 /importer:WavImporter
 /processor:SoundEffectProcessor
 /processorParam:Quality=Best
-/build:sounds/guis/typing_1.wav
+/build:sounds/uis/typing_1.wav
 
-#begin sounds/guis/typing_2.wav
+#begin sounds/uis/typing_2.wav
 /importer:WavImporter
 /processor:SoundEffectProcessor
 /processorParam:Quality=Best
-/build:sounds/guis/typing_2.wav
+/build:sounds/uis/typing_2.wav
 
-#begin sounds/guis/typing_3.wav
+#begin sounds/uis/typing_3.wav
 /importer:WavImporter
 /processor:SoundEffectProcessor
 /processorParam:Quality=Best
-/build:sounds/guis/typing_3.wav
+/build:sounds/uis/typing_3.wav
 
-#begin sounds/guis/typing_4.wav
+#begin sounds/uis/typing_4.wav
 /importer:WavImporter
 /processor:SoundEffectProcessor
 /processorParam:Quality=Best
-/build:sounds/guis/typing_4.wav
+/build:sounds/uis/typing_4.wav
 
-#begin sounds/guis/typing_5.wav
+#begin sounds/uis/typing_5.wav
 /importer:WavImporter
 /processor:SoundEffectProcessor
 /processorParam:Quality=Best
-/build:sounds/guis/typing_5.wav
+/build:sounds/uis/typing_5.wav
 
-#begin sounds/guis/world_loaded.wav
+#begin sounds/uis/world_loaded.wav
 /importer:WavImporter
 /processor:SoundEffectProcessor
 /processorParam:Quality=Best
-/build:sounds/guis/world_loaded.wav
+/build:sounds/uis/world_loaded.wav
 
-#begin sounds/guis/world_saved.wav
+#begin sounds/uis/world_saved.wav
 /importer:WavImporter
 /processor:SoundEffectProcessor
 /processorParam:Quality=Best
-/build:sounds/guis/world_saved.wav
+/build:sounds/uis/world_saved.wav
 
 #begin textures/achievements.png
 /importer:TextureImporter
@@ -633,6 +633,18 @@
 /processorParam:MakeSquare=False
 /processorParam:TextureFormat=Color
 /build:textures/ui/backgrounds/temperature_settings.png
+
+#begin textures/ui/backgrounds/tutorial.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:textures/ui/backgrounds/tutorial.png
 
 #begin textures/ui/backgrounds/world_explorer.png
 /importer:TextureImporter
